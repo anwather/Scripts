@@ -5,3 +5,7 @@ Function Test-function {
     return "Hello"
 }
 Write-Output "Another line of text"
+
+Function Test-function2 {
+    return "Hello"
+}
